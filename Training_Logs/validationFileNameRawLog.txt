@@ -1,0 +1,6 @@
+2021-12-05/14:20:46		Invalid File Name!! File moved to Bad Raw Folder :: UCI_Credit_Card.csv
+2021-12-05/14:29:36		Invalid File Name!! File moved to Bad Raw Folder :: UCI_Credit_Card.csv
+2021-12-05/23:39:57		Valid File name!! File moved to GoodRaw Folder :: UCI_Credit_Card.csv
+2021-12-05/23:55:23		Valid File name!! File moved to GoodRaw Folder :: UCI_Credit_Card.csv
+2021-12-06/00:02:38		Valid File name!! File moved to GoodRaw Folder :: UCI_Credit_Card.csv
+2021-12-06/10:05:01		Valid File name!! File moved to GoodRaw Folder :: UCI_Credit_Card.csv

@@ -1,0 +1,45 @@
+2021-12-05/05:36:11		Start of Validation on files!!
+2021-12-05/05:36:31		Start of Validation on files!!
+2021-12-05/05:40:37		Start of Validation on files!!
+2021-12-05/05:40:42		Start of Validation on files!!
+2021-12-05/05:48:40		Start of Validation on files!!
+2021-12-05/05:58:06		Start of Validation on files!!
+2021-12-05/05:58:10		Start of Validation on files!!
+2021-12-05/05:58:17		Start of Validation on files!!
+2021-12-05/09:36:26		Start of Validation on files!!
+2021-12-05/10:32:43		Start of Validation on files!!
+2021-12-05/14:10:09		Start of Validation on files!!
+2021-12-05/14:16:14		Start of Validation on files!!
+2021-12-05/14:16:15		Start of Validation on files!!
+2021-12-05/14:16:16		Start of Validation on files!!
+2021-12-05/14:16:16		Start of Validation on files!!
+2021-12-05/14:16:16		Start of Validation on files!!
+2021-12-05/14:16:26		Start of Validation on files!!
+2021-12-05/14:20:46		Start of Validation on files!!
+2021-12-05/14:20:46		Raw Data Validation Completed!!
+2021-12-05/14:20:46		Starting Data Transformation!!
+2021-12-05/14:29:36		Start of Validation on files!!
+2021-12-05/14:29:36		Raw Data Validation Completed!!
+2021-12-05/14:29:36		Starting Data Transformation!!
+2021-12-05/14:29:36		DataTrasformation Completed!!
+2021-12-05/14:29:36		Creating Training_Database and tables on the basisof given schema
+2021-12-05/23:39:57		Start of Validation on files!!
+2021-12-05/23:39:58		Raw Data Validation Completed!!
+2021-12-05/23:39:58		Starting Data Transformation!!
+2021-12-05/23:39:59		DataTrasformation Completed!!
+2021-12-05/23:39:59		Creating Training_Database and tables on the basisof given schema
+2021-12-05/23:55:23		Start of Validation on files!!
+2021-12-05/23:55:23		Raw Data Validation Completed!!
+2021-12-05/23:55:23		Starting Data Transformation!!
+2021-12-05/23:55:23		DataTrasformation Completed!!
+2021-12-05/23:55:23		Creating Training_Database and tables on the basisof given schema
+2021-12-06/00:02:38		Start of Validation on files!!
+2021-12-06/00:02:39		Raw Data Validation Completed!!
+2021-12-06/00:02:39		Starting Data Transformation!!
+2021-12-06/00:02:39		DataTrasformation Completed!!
+2021-12-06/00:02:39		Creating Training_Database and tables on the basisof given schema
+2021-12-06/10:05:01		Start of Validation on files!!
+2021-12-06/10:05:01		Raw Data Validation Completed!!
+2021-12-06/10:05:01		Starting Data Transformation!!
+2021-12-06/10:05:02		DataTrasformation Completed!!
+2021-12-06/10:05:02		Creating Training_Database and tables on the basisof given schema

@@ -1,0 +1,32 @@
+2021-12-05/05:36:11		Column Length Validation Satrted!!
+2021-12-05/05:36:11		Error Occurred while moving the file :: <class 'OSError'>
+2021-12-05/05:36:31		Column Length Validation Satrted!!
+2021-12-05/05:36:31		Error Occurred while moving the file :: <class 'OSError'>
+2021-12-05/05:40:37		Column Length Validation Satrted!!
+2021-12-05/05:40:37		Error Occurred while moving the file :: <class 'OSError'>
+2021-12-05/05:40:42		Column Length Validation Satrted!!
+2021-12-05/05:40:42		Error Occurred while moving the file :: <class 'OSError'>
+2021-12-05/05:48:40		Column Length Validation Satrted!!
+2021-12-05/05:48:40		Error Occurred while moving the file :: <class 'OSError'>
+2021-12-05/05:58:06		Column Length Validation Satrted!!
+2021-12-05/05:58:06		Error Occurred while moving the file :: <class 'OSError'>
+2021-12-05/05:58:10		Column Length Validation Satrted!!
+2021-12-05/05:58:10		Error Occurred while moving the file :: <class 'OSError'>
+2021-12-05/05:58:17		Column Length Validation Satrted!!
+2021-12-05/05:58:17		Error Occurred while moving the file :: <class 'OSError'>
+2021-12-05/09:36:26		Column Length Validation Satrted!!
+2021-12-05/09:36:26		Error Occurred while moving the file :: <class 'OSError'>
+2021-12-05/10:32:43		Column Length Validation Satrted!!
+2021-12-05/10:32:43		Error Occurred while moving the file :: <class 'OSError'>
+2021-12-05/14:20:46		Column Length Validation Satrted!!
+2021-12-05/14:20:46		Column Length validation Completed!!
+2021-12-05/14:29:36		Column Length Validation Satrted!!
+2021-12-05/14:29:36		Column Length validation Completed!!
+2021-12-05/23:39:57		Column Length Validation Satrted!!
+2021-12-05/23:39:57		Column Length validation Completed!!
+2021-12-05/23:55:23		Column Length Validation Satrted!!
+2021-12-05/23:55:23		Column Length validation Completed!!
+2021-12-06/00:02:38		Column Length Validation Satrted!!
+2021-12-06/00:02:38		Column Length validation Completed!!
+2021-12-06/10:05:01		Column Length Validation Satrted!!
+2021-12-06/10:05:01		Column Length validation Completed!!

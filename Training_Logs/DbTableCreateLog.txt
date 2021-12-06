@@ -1,0 +1,8 @@
+2021-12-05/14:29:36		Error while creating table: unable to open database file 
+2021-12-05/23:39:59		Error while creating table: unable to open database file 
+2021-12-05/23:55:23		Error while creating table: unable to open database file 
+2021-12-05/23:55:23		Closed Training database successfully
+2021-12-06/00:02:39		Error while creating table: unable to open database file 
+2021-12-06/00:02:39		Closed Training database successfully
+2021-12-06/10:05:02		Error while creating table: unable to open database file 
+2021-12-06/10:05:02		Closed Training database successfully

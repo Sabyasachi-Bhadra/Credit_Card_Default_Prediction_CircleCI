@@ -1,0 +1,4 @@
+2021-12-05/23:39:59		UCI_Credit_Card.csv : File Transformed successfully!!
+2021-12-05/23:55:23		UCI_Credit_Card.csv : File Transformed successfully!!
+2021-12-06/00:02:39		UCI_Credit_Card.csv : File Transformed successfully!!
+2021-12-06/10:05:02		UCI_Credit_Card.csv : File Transformed successfully!!
